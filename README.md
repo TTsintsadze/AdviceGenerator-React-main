@@ -4,8 +4,8 @@
 
 # Links
 
-- Solution URL: [GitHub Code]( )
-- Live Site URL: [Live Site]( )
+- Solution URL: [GitHub Code](https://github.com/TTsintsadze/AdviceGenerator-React-main/tree/main)
+- Live Site URL: [Live Site](https://advice-generator-react-main-six.vercel.app/)
 
 # Install And Dev
 
